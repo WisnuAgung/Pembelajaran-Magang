@@ -1,1 +1,1 @@
-hehe
+data magang 1
