@@ -43,4 +43,5 @@ pages:
     - 'XAMPP'                 : 'menu/web_server/xampp.md'
     - 'Virtual Box'           : 'menu/web_server/virtualBox.md'
     - 'Linux Ubuntu'          : 'menu/web_server/linuxUbuntu.md'
-    
+- GitHub:
+    - 'Home'                  : 'menu/github/github.md'
